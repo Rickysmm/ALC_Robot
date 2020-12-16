@@ -5,7 +5,7 @@ Autonomous Litter Collector Robot
 Team Roster:
 - **Walter Warneke** _(Electrical/Electronic Engineering)_
 - **Ricardo Martinez** _(Electrical/Electronic Engineering)_
-- **Albert Andrade** _(Computer Engineering)_
+- **Albert0 Andrade** _(Computer Engineering)_
 - **Joseph Sheff** _(Electrical/Electronic Engineering)_
 
 [Senior Design Presentation Video](https://www.youtube.com/watch?v=QL7SbdBDqHc&feature=youtu.be "Youtube Link")
